@@ -16,6 +16,8 @@ The main objectives of KenteFashion are:
 •	To provide flexible payment methods, including offline banking and Paystack-powered online payments.
 •	To facilitate global shipping, focusing on serving the African diaspora.
 •	To provide efficient management tools for administrators to handle orders, customers, and products.
+
+
 Key Features
 Customer-Side Features
 •	Product Browsing and Filtering: Customers can explore Kente products categorized by type, occasion, and design.
@@ -24,6 +26,8 @@ Customer-Side Features
 •	Order Tracking: Manage orders and monitor their statuses from a personalized dashboard.
 •	Global Shipping: Efficient delivery services are available worldwide, emphasizing the African diaspora regions.
 •	LearnKente Section: Access rich educational content about Kente’s history, designs, and symbolic meanings.
+
+
 Admin-Side Features
 •	Product Management: Admins can create, update, and manage product listings with descriptions, prices, and images.
 •	Order and Payment Oversight: View and validate online and offline payments and update order statuses.
@@ -31,7 +35,11 @@ Admin-Side Features
 •	Coupon Management: Create and monitor discount codes to boost sales.
 •	Revenue Tracking: Track sales data, pending payments, and completed orders.
 •	LearnKente Content Management: Enrich and update the educational section with new articles and visuals.
+
+
 System Overview
+
+
 Customer Workflow
 •	Browse products and view detailed descriptions and images.
 •	Add products to a cart or wishlist for future reference.
@@ -40,17 +48,23 @@ Choose a payment method:
 •	Offline Payment: Submit bank transfer or other offline payment details for manual verification.
 •	Track orders and view payment statuses.
 •	Explore the LearnKente section for cultural insights and educational content.
+
+
+
 Admin Workflow
 •	Add, update, and categorize products.
 •	Validate payments (online and offline) and update order statuses.
 •	Manage coupons, customer accounts, and order details.
 •	Analyze sales reports and monitor overall system performance.
 •	Update and maintain the LearnKente section to ensure relevance and engagement.
+
+
 Payment Systems
 Paystack Online Payment
 •	Paystack integration provides a fast and secure online payment option for customers.
 •	Customers enter their card details or use other Paystack-supported methods for instant payments.
 •	Payments are validated automatically, updating the order status to "Paid" once thriving.
+
 Offline Payment System
 For customers who prefer traditional payment methods:
 •	Customers select "Offline Payment" during checkout.
@@ -63,12 +77,18 @@ KenteFashion ensures global accessibility through its shipping services, connect
 •	Personalized Experience: Customers in the diaspora receive culturally enriched services, bridging the gap between tradition and modernity.
 
 LearnKente Section: Preserving Heritage
+
+
 The LearnKente section is an integral part of the platform, aimed at preserving and celebrating the heritage of Kente cloth.
 •	History of Kente: Explore the origins and evolution of Kente weaving.
 •	Design Significance: Learn the meanings behind different Kente patterns and their symbolic representation.
 •	Cultural Guidance: Discover which designs suit specific occasions, such as weddings, funerals, or festivals.
 •	Multimedia Content: Access visuals and videos showcasing the weaving process and its cultural importance.
+
+
 Installation and Deployment
+
+
 •	Download and Extract Files:
 Place the project files in the htdocs folder of your XAMPP installation.
 •	Database Setup:
@@ -80,11 +100,18 @@ Place the project files in the htdocs folder of your XAMPP installation.
 •	Run the Application:
 •	Start Apache and MySQL services in XAMPP.
 •	Access the application at http://localhost/KenteFashion/.
+
+
 Future Enhancements
+
+
 •	Mobile App Development: Develop native mobile applications for Android and iOS.
 •	AI Integration: Implement AI-powered recommendations for personalized shopping experiences.
 •	Social Commerce: Enable direct purchases via social media platforms.
 •	Expanded Payment Methods: Add mobile money services like MTN Mobile Money to enhance convenience for African customers.
 •	Loyalty Program: Introduce a rewards system to encourage repeat purchases.
+
+
 Conclusion
+
 KenteFashion is a comprehensive e-commerce solution that seamlessly blends commerce with culture. By providing authentic Kente products, flexible payment options, and rich cultural education, the platform stands as a global beacon for preserving and promoting Ghanaian heritage. With its focus on worldwide shipping and the African diaspora, KenteFashion ensures that the beauty and significance of Kente transcend borders, connecting people worldwide to their roots.
